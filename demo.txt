@@ -1,3 +1,6 @@
 git init
 ls -a
 git status
+git add demo.txt
+git rm --cached demo.txt
+git commit -m "First Commit"
